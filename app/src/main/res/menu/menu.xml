@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_one"
+        android:enabled="true"
+        android:title="One Line"
+        android:icon="@drawable/ic_ant"/>
+    <item
+        android:id="@+id/menu_two"
+        android:enabled="true"
+        android:icon="@drawable/ic_carrot"
+        android:title="Two Lines"/>
+    <item
+        android:id="@+id/menu_three"
+        android:enabled="true"
+        android:icon="@drawable/ic_harvest"
+        android:title="Three Lines" />
+
+    <item
+        android:id="@+id/menu_four"
+        android:enabled="true"
+        android:icon="@drawable/ic_sun"
+        android:title="Three Lines" />
+</menu>
